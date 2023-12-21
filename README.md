@@ -39,7 +39,7 @@ Pour exécuter le script, vous devez d'abord ouvrir la console du navigateur sur
 
 ## Support
 
-Pour toute question ou problème concernant l'utilisation de ce script, veuillez contacter le développeur.
+Pour toute question ou problème concernant l'utilisation de ce script, veuillez contacter le développeur Morgannito.
 
 
 
