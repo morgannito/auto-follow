@@ -77,3 +77,9 @@ function followAll() {
 followAll();
 
 ```
+### warning 
+Ce message peut apparaître après l'utilisation d'un script ou suite à plusieurs actions manuelles de suivre (follow) des personnes. Si ce message s'affiche, vous devrez attendre quelques heures avant de pouvoir suivre d'autres personnes.
+
+<img width="312" alt="image" src="https://github.com/morgannito/auto-follow/assets/37965056/0450e96e-e438-4a57-ac81-59bacfe41f2b">
+
+
